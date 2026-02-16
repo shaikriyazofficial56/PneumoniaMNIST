@@ -32,9 +32,10 @@ This repository contains the implementation of three comprehensive medical imagi
 ```
 .
 ├── notebooks/
-│   ├── task_1.ipynb          # CNN Classification (EfficientNet-B3)
-│   ├── task_2.ipynb          # VLM Report Generation (LLaVA-Med)
-│   └── task_3.ipynb          # Semantic Retrieval (CLIP + FAISS)
+│   ├── compiled_version.ipynb  # Main file containing all tasks (with colab link)
+│   ├── task_1.ipynb            # CNN Classification (EfficientNet-B3)
+│   ├── task_2.ipynb            # VLM Report Generation (LLaVA-Med)
+│   └── task_3.ipynb            # Semantic Retrieval (CLIP + FAISS)
 │
 ├── task1_classification/
 │   ├── task1_classification_report.md              # Comprehensive analysis
